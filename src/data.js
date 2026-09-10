@@ -32,10 +32,6 @@ export const portfolioData = {
       "Internet of Things (IoT)",
       "Computer Vision",
       "YOLO"
-    ],
-    tools: [
-      "Problem Solving",
-      "Adaptif"
     ]
   },
 

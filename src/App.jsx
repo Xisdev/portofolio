@@ -121,14 +121,7 @@ const About = () => {
               </div>
             </div>
 
-            <div>
-              <h4 style={{ marginBottom: '1rem', color: 'var(--text-secondary)' }}>Tools & Software</h4>
-              <div>
-                {portfolioData.skills.tools.map((skill, i) => (
-                  <span key={i} className="tech-tag" style={{ borderColor: 'rgba(255,255,255,0.2)', color: '#fff', background: 'rgba(255,255,255,0.05)' }}>{skill}</span>
-                ))}
-              </div>
-            </div>
+
 
             <h3 style={{ marginTop: '2rem', marginBottom: '1rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '1rem' }}>Certifications</h3>
             <ul style={{ listStyleType: 'square', paddingLeft: '1.5rem', color: 'var(--text-secondary)', fontSize: '0.95rem' }}>
