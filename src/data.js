@@ -1,5 +1,3 @@
-// File ini adalah tempat Anda mengisi semua data portofolio.
-// Silakan ubah teks di dalam tanda kutip ("...") atau tanda kutip terbalik (`...`) dengan data Anda sendiri.
 
 export const portfolioData = {
   // 1. Profil Utama
