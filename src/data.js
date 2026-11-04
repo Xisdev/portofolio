@@ -42,7 +42,11 @@ export const portfolioData = {
       title: "Anggota Tim Riset Citra & Deteksi Objek (Computer Vision)",
       company: "Universitas Garut",
       period: "2023 - 2024",
-      description: "Terlibat dalam riset dan pengembangan model deteksi objek menggunakan algoritma seperti YOLO dengan mengolah custom datasets. Mengaplikasikan eksperimen pengujian deteksi objek secara langsung, termasuk implementasi pemantauan menggunakan telemetri drone untuk melacak subjek manusia."
+      description: "Terlibat dalam riset dan pengembangan model deteksi objek menggunakan algoritma seperti YOLO dengan mengolah custom datasets. Mengaplikasikan eksperimen pengujian deteksi objek secara langsung, termasuk implementasi pemantauan menggunakan telemetri drone untuk melacak subjek manusia.",
+      images: [
+        "/images/riset2.jpeg",
+        "/images/riset3.jpeg"
+      ]
     },
 
     {

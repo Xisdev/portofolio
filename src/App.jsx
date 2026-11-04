@@ -90,9 +90,12 @@ const About = () => {
                   {exp.company} | {exp.period}
                 </div>
                 <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem' }}>{exp.description}</p>
-                {exp.image && (
+                {exp.image && !exp.images && (
                   <img src={exp.image} alt={exp.title} style={{ marginTop: '1rem', width: '100%', borderRadius: '8px', border: '1px solid rgba(255,255,255,0.1)' }} />
                 )}
+                {exp.images && exp.images.map((img, idx) => (
+                  <img key={idx} src={img} alt={`${exp.title} ${idx + 1}`} style={{ marginTop: '1rem', width: '100%', borderRadius: '8px', border: '1px solid rgba(255,255,255,0.1)' }} />
+                ))}
               </div>
             ))}
           </div>
