@@ -1,3 +1,6 @@
+// File ini adalah tempat Anda mengisi semua data portofolio.
+// Silakan ubah teks di dalam tanda kutip ("...") atau tanda kutip terbalik (`...`) dengan data Anda sendiri.
+
 export const portfolioData = {
   // 1. Profil Utama
   hero: {
@@ -41,7 +44,7 @@ export const portfolioData = {
       title: "Anggota Tim Riset Citra & Deteksi Objek (Computer Vision)",
       company: "Universitas Garut",
       period: "2023 - 2024",
-      description: "Terlibat dalam riset dan pengembangan model deteksi objek menggunakan algoritma seperti YOLO dengan mengolah custom datasets. Mengaplikasikan eksperimen pengujian deteksi objek secara langsung, termasuk implementasi pemantauan menggunakan telemetri drone untuk melacak subjek manusia,deteksi kendaran,dan lain lain.",
+      description: "Terlibat dalam riset dan pengembangan model deteksi objek menggunakan algoritma seperti YOLO dengan mengolah custom datasets. Mengaplikasikan eksperimen pengujian deteksi objek secara langsung, termasuk implementasi pemantauan menggunakan telemetri drone untuk melacak subjek manusia.",
       images: [
         "/images/riset2.jpeg",
         "/images/riset3.jpeg"
