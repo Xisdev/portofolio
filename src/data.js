@@ -1,4 +1,3 @@
-
 export const portfolioData = {
   // 1. Profil Utama
   hero: {
