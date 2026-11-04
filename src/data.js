@@ -27,13 +27,11 @@ export const portfolioData = {
       "Integrasi Sensor & Aktuator",
       "Electronic Assembly",
       "Troubleshooting Hardware"
-      "Electrician"
     ],
     software: [
       "Internet of Things (IoT)",
       "Computer Vision",
       "YOLO"
-      "Python"
     ]
   },
 
