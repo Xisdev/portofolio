@@ -5,7 +5,7 @@ export const portfolioData = {
   // 1. Profil Utama
   hero: {
     name: "Kusdinar",
-    role: "Lulusan S1 Teknik Elektro | IoT & Hardware Enthusiast",
+    role: "Lulusan S1 Teknik Elektro | IoT, Computer Vision & Hardware Enthusiast",
     bio: "Lulusan S1 Teknik Elektro dengan fokus pembelajaran pada perancangan alat, Internet of Things (IoT), dan electronic assembly. Memiliki pengalaman praktis dalam merancang dan memprogram sistem elektronika. Terampil dalam teknik soldering komponen, pendataan teknis elektronika, serta troubleshooting perangkat keras dan lunak. Saya adalah individu yang adaptif terhadap teknologi baru dan siap berkontribusi secara proaktif.",
     // Masukkan link foto profil Anda
     profileImage: "/images/profil.jpeg",
